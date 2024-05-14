@@ -257,7 +257,7 @@ Desenvolvemos um projeto que tem como intuito de criar de uma plataforma para en
 
 - [Clique aqui para acessar o protótipo do projeto!](https://github.com/TechForce-ADS/Greenneat/blob/main/Prototipo.md)
 
-- [Clique aqui para acessar iamgens do projeto!](https://github.com/TechForce-ADS/Greenneat/blob/main/Sprints.md)
+- [Clique aqui para acessar imagens do projeto!](https://github.com/TechForce-ADS/Greenneat/blob/main/Sprints.md)
 
 #### Tecnologias Utilizadas
 Como principal tecnologia usamos JavaScript, NodeJS e React Boostrap.
