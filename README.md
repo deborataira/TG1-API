@@ -4,8 +4,9 @@
 <p align="center">
 <img src ="https://github.com/deborataira/imagens/blob/main/foto%20perfil.jpeg" width="250" height="300" align-center>
 
+Meu nome é Debora Taira Novaes, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Professor Jessen Vidal, atualmente cursando o 5º semestre. Cursei meu ensino médio na ETEC Professora Ilza Nascimento Pintus onde me formei como técnica em Desenvolvimento de Sistemas, em 2020 tive a oportunidade de participar do Hackathon Acadêmico do Centro Paula Souza e juntamente de minha equipe conquistamos o primeiro lugar. O projeto consistia em um irrigador automatizado com uso do Esp32, placas de energia solar e uso de água das chuvas, onde conseguimos implantar na horta de nossa escola.
 
-Professor Jessen Vidal A Faculdade de Tecnologia de São José dos Campos - Professor Jessen Vidal é um instituição de ensino superior pública e pertece ao Centro Estadual de Educação Tecnológica Paula Souza do Estado de São Paulo. Criada em 2006, a FATEC São José dos Campos, oferece a formação de técnologos em Análise e Desenvolvimento de Sistemas, Banco de Dados, Desenvolvimento Software Multiplataforma, Gestão e Produção Industrial, Gestão Empresarial, Logística, Manufatura Avançada, Manutenção de Aeronaves e Projeto de Estruturas Aeronáuticas.
+
 
 ## Contatos
 ### Meu GitHub
@@ -28,17 +29,17 @@ Tenho conhecimento no uso do GitHub, Python, Photoshop e possuo grande interesse
 ### Parceiro Acadêmico
 
 FATEC - Professor Jessen Vidal
-A Faculdade de Tecnologia de São José dos Campos - Professor Jessen Vidal é um instituição de ensino superior pública e pertece ao Centro Estadual de Educação Tecnológica Paula Souza do Estado de São Paulo. Criada em 2006, a FATEC São José dos Campos, oferece a formação de técnologos em Análise e Desenvolvimento de Sistemas, Banco de Dados, Desenvolvimento Software Multiplataforma, Gestãoa Produção Industrial, Gestão Empresarial, Logística, Manufatura Avançada, Manutenção de Aeronaves e Projeto de Estruturas Aeronáuticas. 
+Professor Jessen Vidal A Faculdade de Tecnologia de São José dos Campos - Professor Jessen Vidal é um instituição de ensino superior pública e pertece ao Centro Estadual de Educação Tecnológica Paula Souza do Estado de São Paulo. Criada em 2006, a FATEC São José dos Campos, oferece a formação de técnologos em Análise e Desenvolvimento de Sistemas, Banco de Dados, Desenvolvimento Software Multiplataforma, Gestão e Produção Industrial, Gestão Empresarial, Logística, Manufatura Avançada, Manutenção de Aeronaves e Projeto de Estruturas Aeronáuticas.
 
 ### Projeto
 
-No primeiro semestre desenvolvemos um projeto chamado DispVag que consistia no desenvolvimento de um Sistema Web para automatizar o processo de catalogar vagas com ênfase na área de TI, onde configuramos métricas necessárias para cada vaga.
+No primeiro semestre, criamos um projeto chamado "DispVag", que consistia no desenvolvimento de um Sistema Web para automatizar o processo de catalogar vagas com ênfase na área de TI, no qual configuramos métricas necessárias para cada vaga.
 
 ### Problema
 A problemática dada por nosso cliente, era a necessidade de abrigar vagas de emprego onde mostrasse suas principais informações das vagas, como localização, benefícios e conhecimentos precisos para conquistar o emprego.
 
 ### Solução
-Como solução, criamos um site de fácil compreensão, onde armazenavamos vagas disponíveis, seus benefícios, informações e localizações, implantamos gráficos e caso o houvesse dúvidas uma seção para perguntas e dúvidas frequentes. 
+Como solução, criamos um site de fácil compreensão, onde armazenávamos vagas disponíveis, seus benefícios, informações e localizações, implantamos gráficos e, caso o houvesse dúvidas, uma seção para perguntas e dúvidas frequentes. 
 
 ### Projeto desenvolvido:
 
